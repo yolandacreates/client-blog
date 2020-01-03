@@ -1,0 +1,31 @@
+body {
+    background: url(images/lightbluewall.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+a{
+    text-decoration:none;
+    padding: 5px;
+    border: 5px solid #3F10C2;
+    border-radius: 10px;
+    margin: 50px;
+    width: 75%;
+
+}
+
+.facebook{
+    text-decoration:none;
+    padding: 5px;
+    border: 5px solid 	#3FC2A6;
+    border-radius: 10px;
+    margin: 50px;
+    width: 75%;
+    color: 	#080808
+}
+
+.headings{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
